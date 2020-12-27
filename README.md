@@ -1,1 +1,1 @@
-Covid Tracker update
+Covid Tracker update.
